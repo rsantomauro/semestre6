@@ -16,5 +16,6 @@ Con Alvaro: 13/4  20/4  11/5  18/5
 
 ## Seguridad
 
-- Parcial: 24/5
-- Obligatorio: 28/6
+- Parcial (50 pts): 24/5
+- Obligatorio (40 pts): 28/6
+- Actuación de clase (10 pts)
