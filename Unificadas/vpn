@@ -1,0 +1,6 @@
+docker run --name myvpn --rm -d \
+    --env ANYCONNECT_SERVER=vpn.example.com \
+    --env ANYCONNECT_USER=mylogin \
+    --env ANYCONNECT_PASSWORD=mypassword \
+    --cap-add NET_ADMIN --privileged \
+    manydesigns/docker-anyconnect-vpn
